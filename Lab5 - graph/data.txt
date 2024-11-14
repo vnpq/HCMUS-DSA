@@ -1,0 +1,7 @@
+Vietnam,Myanmar //2 nước country1, country2
+a a a a a a //AVLNode
+e f g g h i //AVLNode
+a a b b c //AVLNode
+b a a a a c //AVLNode
+x y z //AVLNode
+a b c d e //AVLNode
